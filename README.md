@@ -1,4 +1,4 @@
-# A Simple Password Generator Script 🔐
+# A Simple Password Generator 🔐
 Generates a 20-character long password composed of random upper/lower-case letters, digits, and symbols (!, #, $)
 
 ## Installation
